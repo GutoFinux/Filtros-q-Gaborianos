@@ -1,0 +1,3 @@
+qGabor: f=0.08,angle=0,k=3
+Gabor: k=3,f=1,angle0 
+qSigmoid: beta=0.3,alfa=0.1,lambda = 0.5
